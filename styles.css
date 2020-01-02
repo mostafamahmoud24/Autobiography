@@ -4,8 +4,8 @@
                 margin: auto;
                 position: relative;
             }
-            
-            h1 {
+
+            h1 { 
                 font-size: 40px;
                 text-align: center;
                 padding-top: 55px;
@@ -13,27 +13,27 @@
                 font-family: 'Fira Sans', sans-serif;
                 font-weight: bold;
             }
-        
+
             #secondtitle {
                 text-align: center;
                 color: #333;
                 font-family: 'Roboto', sans-serif;
             }
-            
+
             #img-div {
                 background-color: white;
                 padding: 20px;
                 position: inherit;
                 margin: 15px
             }
-            
+
             #image {
                 max-width: 100%;
                 display: block;
                 height: auto;
                 margin: 0 auto;
             }
-            
+
             #img-caption {
                 color: dimgray;
                 text-align: justify;
@@ -41,37 +41,37 @@
                 font-size: 17px;
                 font-family: 'Roboto', sans-serif;
             }
-            
+
             h3 {
                 text-align: center;
                 font-family: 'Fira Sans', sans-serif;
                 padding-top: 40px
             }
-            
+
             #ulist {
                 margin: 50px 150px;
                 font-family: 'Roboto', sans-serif;
                 color: #333;
-                
+
             }
-            
-            
+
+
             li {
                 margin-bottom: 17px;
             }
-            
+
             #qoute {
                 margin: 50px 175px;
                 font-family: 'Roboto', sans-serif;
                 color: #333;
                 text-align: justify;
             }
-        
+
             #footer {
                 font-family: 'Fira Sans', sans-serif;
                 text-align: center;
                 font-size: 18px;
                 font-weight: bold;
-                
-                
+
+
             }
